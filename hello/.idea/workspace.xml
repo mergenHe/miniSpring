@@ -5,120 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39927995-b3a5-4ac6-b54e-ae8b7ef3eb41" name="Changes" comment="建立模块，生成PO类">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-api/src/main/java/com/hh/HhContentApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-api/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-api/src/test/java/com/hh/HhContentApiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/CourseBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/CourseCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/CourseMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/CoursePublish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/CoursePublishPre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/CourseTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/Teachplan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/java/com/hh/content/model/po/TeachplanMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-model/src/test/java/com/hh/HhContentModelApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/hh-content-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-content/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh-parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseBaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseCategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseMarketController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CoursePublishController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CoursePublishPreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseTeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/TeachplanController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/TeachplanMediaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseBaseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseBaseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseCategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseCategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseMarketMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseMarketMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishPreMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishPreMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseTeacherMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseTeacherMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMediaMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMediaMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CoursePublish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CoursePublishPre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/Teachplan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/TeachplanMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseBaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseMarketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CoursePublishPreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CoursePublishService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseTeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/TeachplanMediaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/TeachplanService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseBaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseMarketServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CoursePublishPreServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CoursePublishServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseTeacherServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/TeachplanMediaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/TeachplanServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/BankCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/CommonCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/ContentCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/LearningCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MediaCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MessageCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/OrderCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/SystemCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/UcenterCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/controller.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/controller.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/controller.java.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/controller.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/controller.java.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/dao.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.java.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.java.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.kt.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.kt.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.kt.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.java.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.java.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.xml.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.xml.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.xml.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/service.java.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/service.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/service.java.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.java.btl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.java.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/entity.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/mapper.java.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/serviceImpl.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +60,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
-    "spring.configuration.checksum": "1b0fec76da85f734f573b8b75c9ac739",
+    "spring.configuration.checksum": "cabef749f5840fb0b92a9db1d74ed266",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -253,6 +140,7 @@
       <workItem from="1694789127205" duration="223000" />
       <workItem from="1694789489864" duration="472000" />
       <workItem from="1694790080234" duration="4259000" />
+      <workItem from="1694794984480" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="提交gitgnore">
       <option name="closed" value="true" />
@@ -262,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694785425836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="建立模块，生成PO类">
+      <option name="closed" value="true" />
+      <created>1694795032571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694795032571</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,6 +193,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交gitgnore" />
     <MESSAGE value="建立模块，生成PO类" />
